@@ -1,0 +1,99 @@
+body {
+    
+    background-image: url(Images/2ey863tfyqx31.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    background-image: no-repeat;
+
+}
+h1 {
+    margin-top: 0px;
+}
+div {
+    padding: 25px;
+}
+#top-container {
+    background-color: #e4f9f5;position: relative;text-align: center;height: 1100px;
+}
+#middle-container {
+    height: 200px;
+    width: 200px;
+}
+#bottom-container {
+    height: 200px;
+    width: 200px;
+}
+.cloud1 {
+    position: absolute; right: 90px;
+}
+.cloud2 {
+    position: absolute;left: 20px;top: 65px;
+}
+.cloud3 {
+    position: absolute;left: 150px;top: 300px;
+}
+.cloud4{
+    position: relative; bottom: 250px;
+}
+.introtext {
+    font-family: 'Montserrat', sans-serif;position: relative;top: 350px;;
+}
+.intro {
+    font-family: 'Sacramento', cursive;font-size: 100px;
+}
+.pro1{
+    font-size: 40px;
+}
+.pro2 {
+    font-family: 'Sacramento', cursive;font-size: 120px;
+}
+
+.mountain1 {
+    position: absolute;left: 20px;bottom: 20px;
+}
+.mountain2 {
+    position: absolute;right: 20px;bottom: 20px;
+}
+
+
+.relbox1 {
+    background-color: red;height: 100px;width: 100px;}
+
+    .relbox2 {
+    background-color: blue;height: 100px;width: 100px;}
+.relbox3 {
+    background-color: yellow; height: 100px; width: 100px;}
+.relbox4 {
+    background-color: blanchedalmond;height: 100px; width: 100px; }
+.relbox5 {
+    background-color: blueviolet; height: 100px;width:100px;}
+.relbox6 {
+    background-color: steelblue;height: 100px;width: 100px;}
+.relbox7 {
+    background-color: yellowgreen;height: 100px;width: 100px;}
+.relbox8 {
+    background-color: aqua;height: 100px;width: 100px;position: relative;bottom: 900px;}
+.relbox9 {
+    background-color: palevioletred;height: 100px;width: 100px;position: relative;bottom: 900px;}
+
+
+.blocks123 {
+    background-color: royalblue;height: 1000px;width: 1000px; position: relative;
+}
+.block1 {
+    background-color: slategray; width: 100px;
+    height: 100px;
+}
+.block2 {
+    background-color: tan;width: 100px;height: 100px;position: absolute; bottom: 20px;
+}
+.block3 {
+    background-color: slateblue; width: 100px;
+    height: 100px; position: absolute; right: 20px;top: 20px;
+}
+.block4 {
+    background-color: mediumseagreen; width: 100px;
+    height: 100px; position: absolute; right: 20px;bottom: 20px;
+}
